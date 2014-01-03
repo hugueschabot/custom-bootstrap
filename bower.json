@@ -1,0 +1,11 @@
+{
+    "name": "custom-bootstrap",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/hugueschabot/custom-bootstrap.git"
+    },
+    "dependencies": {
+        "bootstrap": "~3.0.0"
+    }
+}

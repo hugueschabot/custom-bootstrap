@@ -18,7 +18,7 @@ This project requires [Node](http://nodejs.org/).
  
 ## Customization
  
-1. Modify [less/custom-bootstrap.less](./less/custom-bootstrap.less) and [less/custom-bootstrap.less](./less/custom-variables.less).
+1. Modify [less/custom-bootstrap.less](./less/custom-bootstrap.less) and [less/custom-variables.less](./less/custom-variables.less).
 2. Run `npm-exec grunt` to generate a distribution.
 3. Open [index.html](./index.html) to see the results.
 4. Rinse and repeat until satisfied.
